@@ -42,6 +42,9 @@ body {
   .site-wrapper {
     background-color: rgba(133, 133, 133, 0.25);
   }
+  .cover-container {
+    padding-top: 15%;
+  }
 }
 
 @media (min-width: 550px) {
