@@ -43,7 +43,10 @@ body {
     background-color: rgba(133, 133, 133, 0.25);
   }
   .cover-container {
-    padding-top: 15%;
+    padding-top: 55%;
+  }
+  address {
+    line-height: 250%;
   }
 }
 
